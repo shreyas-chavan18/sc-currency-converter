@@ -1,0 +1,23 @@
+{
+  "name": "sc-currency-converter",
+  "version": "1.0.0",
+  "description": "Converts currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyas-chavan18/sc-currency-converter.git"
+  },
+  "author": "Shreyas Chavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyas-chavan18/sc-currency-converter/issues"
+  },
+  "homepage": "https://github.com/shreyas-chavan18/sc-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
